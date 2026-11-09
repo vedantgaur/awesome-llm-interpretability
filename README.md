@@ -128,6 +128,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827) - Examines a specific neural circuit within a 4-layer transformer model responsible for generating Python docstrings.
 1. [Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks](https://arxiv.org/abs/2207.13243) - Survey on mechanistic interpretability
 1. [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) - Anthropic’s research article on tracing internal computational pathways in Claude 3.5 Haiku, including multilingual representations, planning, mental math, faithful/unfaithful reasoning, multi-step reasoning, and hallucination-related mechanisms.
+1. [Latent catches two-neuron evil Qwen before it writes a word](https://runlatent.ai/blog/evil-qwen) - Steering two neurons turns Qwen3.5-4B misaligned; a probe trained only on the unsteered model flags all 245 prompts sent to the steered model from its activations before it writes a word.
 
 ---
 
